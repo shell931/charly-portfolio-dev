@@ -66,7 +66,7 @@ You just need to fork this repo and linking it to your Netlify account.
 
 or
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shell931/charly-portfolio)
 
 ## Authors ❤️
 
