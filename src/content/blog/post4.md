@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "3D Secure"
+title: "Nginx"
 description: "this is a post example"
-pubDate: 2023-01-21
+pubDate: 2024-01-21
 category: "intro"
 ---
 
@@ -10,7 +10,7 @@ category: "intro"
 
 This Markdown file creates a page at `your-domain.com/post1/`
 
-It probably isn't styled much, but Markdown does support:
+It probably isn't styled much, but Markdown does support FSFSFS:
 
 - **bold** and _italics._
 - lists
