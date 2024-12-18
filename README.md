@@ -1,14 +1,11 @@
-# ⚡️astro-bento-portfolio
+# ⚡️astro-charly-portfolio
 
 ## A personal portfolio website made using `Astro`.
 
-![astro-bento-portfolio | Bento-like Personal Porfolio Template](public/preview.png)
-
-or my portfolio **[click here](https://charly.xyz/)**
+or my portfolio **[click here]([https://charly.xyz/](https://charly-portfolio.netlify.app/))**
 
 ## Features
 
-- Modern and Minimal bento-like, sleek UI Design
 - All in one page (almost)
 - Fully Responsive
 - Performances and SEO optimizations
@@ -68,4 +65,4 @@ or
 
 ## Authors ❤️
 
-- Gianmarco - https://github.com/shell931
+- Carlos Arriero - https://github.com/shell931
